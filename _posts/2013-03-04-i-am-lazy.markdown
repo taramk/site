@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+been really lacking on the blog updates. apologies! i really wanted to code this site all by myself without any bullshit, but i caved and installed a small CMS, perch. i just need to configure it and actually use it. i realize it's totally silly to hard code all of my entries. i could probably even just use wordpress, but hey, i'm learning. for now, i've been using sourcekit, a chrome app code editor that saves to dropbox. so since my website syncs there it's actually pretty easy.
+
+made a resume website for sherry, and i'm working on mine now. nick needs one too, and i informed my dad he could really use a website for his business. so, creating all kinds of work for myself, yay.
+
+other than that, my life can be summed up with these two videos:
+
+http://www.youtube.com/watch?feature=player_embedded&v=fK_2IwU0ny0
+http://www.youtube.com/watch?feature=player_embedded&v=qNx6PAqhK5s

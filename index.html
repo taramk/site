@@ -1,0 +1,34 @@
+---
+layout: default
+title: adventures with tara
+---
+
+<div id="home">
+  <section>
+  <h2>recent posts</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">
+          <h3 class="post-title">{{ post.title | downcase }}</h3>
+        </a>
+        <span class="date">{{ post.date | date_to_string | downcase }}</span>
+        {{ post.content | truncate: 160 }}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+<section>
+  <h2>projects</h2>
+    <p>
+      <a href="http://www.thenewblack-friday.com">The New Black Friday</a> <span class="date">2012</span>
+      <br>
+      <a href="http://bit.ly/17BDjoM">Horoscope.com search utility</a> <span class="date">2012</span>
+      <br>
+      <a href="http://www.sherrybelul.com">Sherry Belul’s resume site</a> <span class="date">2012</span>
+      <br>
+      <a href="http://www.taramk.com/nextmuni">My Muni feed (in progress)</a> <span class="date">2013</span>
+      <br>
+      Downtown San Jose events site (in progress) <span class="date">2013</span>
+</section>
+</div>
